@@ -21,7 +21,7 @@ function installCompanyNewsSection() {
     <div class="container">
       <div class="section-title-row reveal is-visible">
         <div><span class="eyebrow">COMPANY NEWS</span><h2>公司新闻</h2></div>
-        <p>记录红薏米 × 柚信使在媒体报道、两岸交流、项目落地与产业合作中的阶段成果。</p>
+        <p>记录团队在媒体报道、两岸交流、项目落地与产业合作中的阶段成果。</p>
       </div>
 
       <article class="news-featured reveal is-visible">
