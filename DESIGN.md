@@ -1,0 +1,2 @@
+# TONK Lab visual direction
+User-pinned direction: premium dark creative studio, commercial clarity plus street-culture character art. Warm charcoal and ivory, restrained vermilion and acid yellow. Space Grotesk lettering, native Chinese sans-serif. Large TONK Lab typography and original character art lead the homepage. Editorial separators, quiet square controls, generous spacing, real project photography. All legacy sections and historical organization references remain. No decorative particle effects or new claims. Desktop and mobile responsive.
