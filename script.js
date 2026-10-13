@@ -29,7 +29,7 @@ function installSiteImages() {
 
   const portraits = document.querySelectorAll('.leader-card .media-placeholder.portrait');
   setRealImage(portraits[0], 'assets/team/team_xue_yingzhong.webp', '薛颖穜', '3 / 4', 'center top');
-  setRealImage(portraits[1], 'assets/team/team_zha_gang.webp', '查钢', '3 / 4', 'center top');
+  setRealImage(portraits[1], 'assets/team/team_zhou_linjie.jpg', '周林杰', '3 / 4', 'center top');
 }
 
 installSiteImages();
