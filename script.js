@@ -244,7 +244,7 @@ window.addEventListener('resize', () => {
 
 // Load company news and persistent visitor counter after the core page is ready.
 const companyNewsLoader = document.createElement('script');
-companyNewsLoader.src = './news-data.js?v=tonk-20261009';
+companyNewsLoader.src = './news-data.js?v=award-photo-20261013';
 companyNewsLoader.addEventListener('load', () => {
   const extrasLoader = document.createElement('script');
   extrasLoader.src = './extras.js?v=tonk-20261009';

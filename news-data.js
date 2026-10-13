@@ -1,6 +1,6 @@
 window.COMPANY_NEWS={
   "items": [
-    {"date":"2026.07","type":"项目成果","title":"系列征集活动颁奖 · 项目作品获奖","text":"以原创内容与项目实践持续参与公开征集与行业活动，形成可展示的阶段成果。","image":"assets/news/news_01.webp"},
+    {"date":"2026.07","type":"项目成果","title":"系列征集活动颁奖 · 项目作品获奖","text":"以原创内容与项目实践持续参与公开征集与行业活动，形成可展示的阶段成果。","image":"assets/news/news_award_closeup.png"},
     {"date":"2025.06","type":"产业交流","title":"参与产业交流活动 · 拓展合作资源","text":"持续与文化、传媒及产业界人士交流，拓展项目协作与内容合作机会。","image":"assets/news/news_02.webp"},
     {"date":"2020.09","type":"媒体报道","title":"亮相第十八届海峡青年论坛 · 接受媒体采访","text":"围绕两岸青年融合发展与文化交流议题参与论坛活动，并接受现场媒体采访。","featured":true,"image":"assets/news/news_03.webp"},
     {"date":"2023.02","type":"公司动态","title":"政企与来宾到访 · 交流原创文创项目","text":"接待来访团队参观公司空间，介绍原创 IP、文创内容与项目实践。","image":"assets/news/news_04.webp"},
